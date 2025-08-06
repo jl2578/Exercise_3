@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+seaborn
+missingno
+scikit-learn           # Case 4 regression
+jupyterlab             # nice UI inside Codespaces
